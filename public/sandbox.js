@@ -103,7 +103,7 @@
 //fuction type signatures
 //let greet : Function
 //example 1
-var greet;
+let greet;
 // greet = (name: string, greeting: string) => {
 //   console.log(`${name} says ${greeting}`);
 // }; this is ok
